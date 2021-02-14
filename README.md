@@ -23,7 +23,7 @@
     4. templates/footer.html
       -> 수업명으로 변경하여 사용하면 된다.
 
-## Database
+## Database (Mongo DB)
     MongoDB 몽고디비를 사용하여 score를 기록하였다.
     제출시 수집하고 데이터베이스에 기록하는 정보는
     1. 유저의 ip
