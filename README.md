@@ -1,7 +1,7 @@
 # scoreboard_with_python
     파이썬으로 스코어보드구현
     문제에 대한 모델의 예측한 라벨을 제출하면 정확도를 비교하여 랭킹을 매겨서 보여주는 웹어플리케이션
-<img width="880" alt="스크린샷 2021-02-14 오후 6 47 33" src="https://user-images.githubusercontent.com/50725139/107873339-2020de80-6ef5-11eb-8e2e-9311f91cb795.png">
+<img width="400" alt="스크린샷 2021-02-14 오후 6 47 33" src="https://user-images.githubusercontent.com/50725139/107873339-2020de80-6ef5-11eb-8e2e-9311f91cb795.png">
 
   
 ## Language Needed
