@@ -1,5 +1,7 @@
 # scoreboard_with_python
     파이썬으로 구현한 score board입니다.
+<img width="880" alt="스크린샷 2021-02-14 오후 6 47 33" src="https://user-images.githubusercontent.com/50725139/107873339-2020de80-6ef5-11eb-8e2e-9311f91cb795.png">
+
   
 ## Language Needed
     1. NodeJS -> TailwindCSS
