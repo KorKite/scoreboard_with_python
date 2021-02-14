@@ -13,7 +13,7 @@ class scoring:
         return accuracy_score(self.answer, array_list)*100
 
     def check_ok(self, csv_file):
-        if csv_file.shape == (150, 1):
+        if csv_file.shape == (150, 1): # 정답의 shape를 적어주어야 함
             return True
         else:
             return False
